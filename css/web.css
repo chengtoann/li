@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+  padding: 0;
+  }
+ #head{
+ 	width:140000px;
+ 	height:250px;
+ 	background: url(images/demo.blue.png);
+ }
+ #logo{
+ 	float:left;
+ 	width:540px;
+ 	height:189px;
+ 	background: url(images/demo.logo.gif)
+ }
+ #h1{
+ 	font-size:45px;
+ 	font-family:"黑体";
+ 	font-weight: bold;
+ 	color:white;
+ }
+ #nav{
+ 	width: 1278px;
+ 	height:62px;
+ 	font-size:20px;
+ 	background-color:blue;
+ }
+ #nav ul{
+ 	margin: 0;
+ }
+#nav ul li{
+	 	width: 82px;
+	 	height:62px;
+	 	color:white;
+	 	font-size:20;
+	 	margin:0;
+ }
+ #table{
+     width: 1278px;
+     height:943px;
+     background-color: white;
+ }
+ #message{
+ 	position: absolute;
+ 	width: 400px;
+ 	height:421px;
+ }
+ #big{
+ 	font-size: 30px;
+ 	font-weight: bold;
+ 	color: black;
+ }
+#normal{
+	float:right;
+	font-size: 25px;
+	font-family: "黑体"；
+	color:blue;
+}
+#list1{
+	list-style-image:  url(images/demo.point.gif);
+}
+#one{
+	font-weight: bold;
+	font-size: 20px;
+	color: black;
+}
+#two{
+	font-size: 15px;
+	color:black;
+}
+#date{
+	float:right;
+	color:blue;
+	font-size: 10px;
+}
+#news{
+	position: absolute;
+	width:930px; 
+	height:421px;
+}
+#list2{
+	color:black;
+}
+#h3{
+	font-size: 15px;
+	font-weight:bold;
+	color:black;
+	text-align:center;
+}
+#three{
+	font-style: 10px;
+	width:471px; 
+	height:136;
+	color:black;
+	position:absolute;
+}
+#list3{
+	list-style-image:  url(images/demo.point.gif);
+}
+#study{
+	width: 570px;
+	height:430px;
+	position:absolute;
+}
+#education{
+	width: 
+	height
+	position:absolute;
+}
+#foot{
+	background: url(images/demo.hurdle.png);
+}

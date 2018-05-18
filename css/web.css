@@ -2,111 +2,112 @@ body {
   margin: 0;
   padding: 0;
   }
- #head{
- 	width:140000px;
+ .head{
+ 	width:1400px;
  	height:250px;
- 	background: url(images/demo.blue.png);
+ 	background: url(images/demo.blue.png) no-repeat top;
  }
- #logo{
+ .logo{
  	float:left;
  	width:540px;
  	height:189px;
  	background: url(images/demo.logo.gif)
  }
- #h1{
+ .h1{
  	font-size:45px;
  	font-family:"黑体";
  	font-weight: bold;
  	color:white;
+ 	position: right;
  }
- #nav{
+.nav{
  	width: 1278px;
  	height:62px;
  	font-size:20px;
  	background-color:blue;
  }
- #nav ul{
+.nav ul{
  	margin: 0;
  }
-#nav ul li{
+.nav ul li{
 	 	width: 82px;
 	 	height:62px;
 	 	color:white;
 	 	font-size:20;
 	 	margin:0;
  }
- #table{
+.table{
      width: 1278px;
      height:943px;
      background-color: white;
  }
- #message{
+.message{
  	position: absolute;
  	width: 400px;
  	height:421px;
  }
- #big{
+.big{
  	font-size: 30px;
  	font-weight: bold;
  	color: black;
  }
-#normal{
+.normal{
 	float:right;
 	font-size: 25px;
 	font-family: "黑体"；
-	color:blue;
+	color: blue;
 }
-#list1{
+.list1{
 	list-style-image:  url(images/demo.point.gif);
 }
-#one{
+.one{
 	font-weight: bold;
 	font-size: 20px;
 	color: black;
 }
-#two{
+.two{
 	font-size: 15px;
 	color:black;
 }
-#date{
+.date{
 	float:right;
 	color:blue;
 	font-size: 10px;
 }
-#news{
+.news{
 	position: absolute;
 	width:930px; 
 	height:421px;
 }
-#list2{
+.list2{
 	color:black;
 }
-#h3{
+.h3{
 	font-size: 15px;
 	font-weight:bold;
 	color:black;
 	text-align:center;
 }
-#three{
+.three{
 	font-style: 10px;
 	width:471px; 
 	height:136;
 	color:black;
 	position:absolute;
 }
-#list3{
+.list3{
 	list-style-image:  url(images/demo.point.gif);
 }
-#study{
+.study{
 	width: 570px;
 	height:430px;
 	position:absolute;
 }
-#education{
+.education{
 	width: 
 	height
 	position:absolute;
 }
-#foot{
+.foot{
 	background: url(images/demo.hurdle.png);
 }

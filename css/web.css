@@ -14,11 +14,11 @@ body {
  	background: url(images/demo.logo.gif)
  }
  .h1{
- 	font-size:45px;
- 	font-family:"黑体";
- 	font-weight: bold;
- 	color:white;
- 	position: right;
+ 	 font-size: 46px;
+ 	 font-family: "黑体";
+     font-weight: bold;
+     color: white;
+     position: relative;
  }
 .nav{
  	width: 1278px;
@@ -30,11 +30,11 @@ body {
  	margin: 0;
  }
 .nav ul li{
-	 	width: 82px;
-	 	height:62px;
-	 	color:white;
-	 	font-size:20;
-	 	margin:0;
+	 width: 82px;
+	 height:62px;
+	 color:white;
+	 font-size:20;
+	 margin:0;
  }
 .table{
      width: 1278px;
@@ -51,6 +51,12 @@ body {
  	font-weight: bold;
  	color: black;
  }
+.notice{
+	float:left;
+	font-size: 25px;
+	font-family: "黑体"；
+	color: blue;
+}
 .normal{
 	float:right;
 	font-size: 25px;
@@ -74,10 +80,15 @@ body {
 	color:blue;
 	font-size: 10px;
 }
-.news{
+.news {
 	position: absolute;
 	width:930px; 
 	height:421px;
+}
+.news img{
+    float:left;
+    margin-top:30px;
+    margin-left:40px;
 }
 .list2{
 	color:black;
